@@ -1,9 +1,3 @@
-# go-oauth
-Golang OAuth
-
-### Examples
-
-```go
 package main
 
 import (
@@ -61,4 +55,3 @@ func main() {
 		fmt.Printf("error starting server: %s\n", err)
 	}
 }
-```
